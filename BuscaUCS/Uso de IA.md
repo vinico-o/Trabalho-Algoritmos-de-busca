@@ -1,0 +1,1 @@
+A IA foi utilizada como ferramenta para desenvolver a interface gráfica do programa.
