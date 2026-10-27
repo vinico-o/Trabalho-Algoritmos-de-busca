@@ -1,0 +1,76 @@
+id,nome,x,y,linha
+1,Tucuruvi,0,10,Azul
+2,Parada Inglesa,0,9,Azul
+3,Jardim São Paulo,0,8,Azul
+4,Santana,0,7,Azul
+5,Carandiru,0,6,Azul
+6,Portuguesa-Tietê,0,5,Azul
+7,Armênia,0,4,Azul
+8,Tiradentes,0,3,Azul
+9,Luz,0,2,Intersecao
+10,São Bento,0,1,Azul
+11,Sé,0,0,Intersecao
+12,Liberdade,0,-1,Azul
+13,São Joaquim,0,-2,Azul
+14,Vergueiro,0,-3,Azul
+15,Paraíso,0,-4,Intersecao
+16,Ana Rosa,0,-5,Intersecao
+17,Vila Mariana,0,-6,Azul
+18,Santa Cruz,0,-7,Intersecao
+19,Praça da Árvore,0,-8,Azul
+20,Saúde,0,-9,Azul
+21,São Judas,0,-10,Azul
+22,Conceição,0,-11,Azul
+23,Jabaquara,0,-12,Azul
+24,Palmeiras-Barra Funda,-5,2,Vermelha
+25,Marechal Deodoro,-4,1.5,Vermelha
+26,Santa Cecília,-3,1,Vermelha
+27,República,-2,0.5,Intersecao
+28,Anhangabaú,-1,0.25,Vermelha
+29,Pedro II,1,-0.25,Vermelha
+30,Brás,2,-0.5,Vermelha
+31,Bresser-Mooca,3,-0.5,Vermelha
+32,Belém,4,-0.5,Vermelha
+33,Tatuapé,5,-0.5,Vermelha
+34,Carrão,6,-0.5,Vermelha
+35,Penha,7,-0.5,Vermelha
+36,Vila Matilde,8,-0.5,Vermelha
+37,Guilhermina-Esperança,9,-0.5,Vermelha
+38,Patriarca,10,-0.5,Vermelha
+39,Artur Alvim,11,-0.5,Vermelha
+40,Corinthians-Itaquera,12,-0.5,Vermelha
+41,Vila Madalena,-5,-2,Verde
+42,Clínicas,-4,-2.5,Verde
+43,Consolação,-3,-3,Verde
+44,Trianon-Masp,-2,-3.5,Verde
+45,Brigadeiro,-1,-3.75,Verde
+46,Chácara Klabin,1,-5.5,Intersecao
+47,Santos-Imigrantes,2,-6,Verde
+48,Alto do Ipiranga,3,-6.5,Verde
+49,Sacomã,4,-7,Verde
+50,Tamanduateí,5,-7.5,Verde
+51,Vila Prudente,6,-8,Verde
+52,Higienópolis-Mackenzie,-2.5,-0.5,Amarela
+53,Paulista,-3,-1.5,Intersecao
+54,Oscar Freire,-4,-2,Amarela
+55,Fradique Coutinho,-5,-2.7,Amarela
+56,Faria Lima,-6,-3.4,Amarela
+57,Pinheiros,-7,-4.1,Amarela
+58,Butantã,-8,-4.8,Amarela
+59,São Paulo-Morumbi,-9,-5.5,Amarela
+60,Vila Sônia,-10,-6.2,Amarela
+61,Capão Redondo,-8,-12.5,Lilás
+62,Campo Limpo,-7.5,-12,Lilás
+63,Vila das Belezas,-7,-11.5,Lilás
+64,Giovanni Gronchi,-6.5,-11,Lilás
+65,Santo Amaro,-6,-10.5,Lilás
+66,Largo Treze,-5.5,-10,Lilás
+67,Adolfo Pinheiro,-5,-9.5,Lilás
+68,Alto da Boa Vista,-4.5,-9,Lilás
+69,Borba Gato,-4,-8.5,Lilás
+70,Brooklin,-3.5,-8,Lilás
+71,Campo Belo,-3,-7.5,Lilás
+72,Eucaliptos,-2.5,-7,Lilás
+73,Moema,-2,-6.5,Lilás
+74,AACD Servidor,-1.2,-6.7,Lilás
+75,Hospital São Paulo,-0.6,-6.8,Lilás
