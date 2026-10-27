@@ -1,1 +1,15 @@
+# Arquivos temporários do Python
 __pycache__/
+*.pyc
+*.pyo
+
+# Checkpoints automáticos do Jupyter
+.ipynb_checkpoints/
+
+# Ambientes virtuais
+.venv/
+venv/
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
